@@ -99,4 +99,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# React
+
+## 📚 Learn More
+-🔗 [React Documentation](https://react.dev/)
+
+-🔗 [Create React App Docs](https://create-react-app.dev/docs/getting-started)
+  
+## 🔗 Backend Integration
+This frontend connects to the Dev News API, a Spring Boot backend that handles articles, comments, topics, and reactions.
+
+
