@@ -1,3 +1,34 @@
+# 📰 Dev News Client
+
+Frontend interface for the **Dev News Platform**, built with **React** and bootstrapped using [Create React App](https://github.com/facebook/create-react-app). This client consumes the RESTful API built with Spring Boot and PostgreSQL.
+
+## 🚀 Features
+
+- View developer articles and comments
+- React to posts with likes/dislikes
+- Filter articles by topic
+- Responsive UI for desktop and mobile
+- Connects to `dev-news-api` backend
+
+## 🧠 Tech Stack
+
+- React
+- JavaScript (ES6+)
+- Axios
+- React Router
+- Bootstrap / Tailwind (optional)
+- Create React App
+
+## ⚙️ Setup
+
+In the project directory, run:
+
+```bash
+npm install
+npm start
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
